@@ -198,8 +198,8 @@ Performance encompasses skills where immediate physical or neurological capabili
 
 ### Suggested Rating Categories
 - Input Precision: Executing a perfect wavedash in Super Smash Bros Melee, inputting combos in a fighting game, or inputting directions on an arcade DDR machine.
-- Motor Control: Maintaining aim on and shooting a moving target in CS:GO
-- Mental Calculation: Calculating the mathematic advantages of one card versus in The Bazaar; calculating hundreds of chess moves for a novel variation.
+- Motor Control: Maintaining aim on and shooting a moving target in CS:GO; threading Mario through multiple platforming objects; or driving a car in Gran Turismo. Where the controls are not complex but the contol of the in game action is.
+- Mathmatical Processing: Calculating the mathematic advantages of one card versus in The Bazaar; calculating hundreds of chess moves for a novel variation.
 - Spatial Processing: Tracking multiple enemies across vertical layers in Doom Eternal or avoiding hundreds of individual objects in Enter the Gungeon.
 - Visual Processing: Reading attack animations in Monster Hunter to time dodges
 - Reaction Inputs: Pure response time, such as blocking mix-ups in Street Fighter on reaction
