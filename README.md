@@ -371,9 +371,11 @@ Learning and Research involves systematic approaches to understanding game syste
 ### Learning and Research: Suggested Rating Categories
 
 - Novel Theory/Hypothesis Development
+    Using current knowledge to identify gaps and opportunities where gain new knowledge is essential or interesting.
         ex. Brainstorming new redstone mechanisms in Minecraft; theorising potential solution ideas for puzzles in Tunic; hypothesising about growth mechanics in Final Fantasy XI's gardening system.
 - Systematic Testing, Recording, and Data Validation
-     ex. Recording exact frame data for moves in Guilty Gear -Strive-;
+    Identifying what data is needed to prove a particular fact or idea and creating methods to obtain that data and record it.
+     ex. Recording exact frame data for moves in Guilty Gear -Strive-.
 - Research Tool Development
     Producing tools that overcome data collection barriers in game, such as parsers
         ex. Creating DPS parsing tools to aid FFXIV damage rotation optimisation projects.
@@ -404,13 +406,6 @@ Knowledge and resources external to the game that can influence performance with
 - Identifying emerging trends before they become dominant
 - Learning about historical patterns to predict future developments
 - Reading multiple layers of human behaviour (developers, pros, community)
-
-#### Meta-Knowledge, External Knowledge, and External Resources Example: Fighting Game - Tekken 8
-
-- Predicting which characters will be strong in upcoming patches based on developer patterns
-- Understanding Japanese arcade trends that might influence future tournament play
-- Learning fighting game terminology that isn't explained in-game
-- Anticipating how new characters may affect current character viability
 
 ### Meta-Knowledge, External Knowledge, and External Resources: Suggested Rating Categories
 
@@ -449,30 +444,6 @@ Emotional Management encompasses the skills and capabilities related to understa
 - Handling peer pressure and social anxiety
 - Processing social validation and criticism
 
-### Emotional Management Examples
-
-- Managing tilt in competitive games
-- Maintaining composure during high-stakes moments
-- Handling repeated failures in challenging games
-- Sustaining motivation during long grinding sessions
-- Processing losses without damaging self-esteem
-- Channeling competitive spirit productively
-- Managing performance anxiety in ranked play
-- Maintaining emotional stability during team play
-- Building confidence through progressive challenges
-- Staying patient during low-probability rewards
-- Handling social pressure in team environments
-- Managing emotions during public performance
-- Processing feedback from teammates
-- Dealing with social comparison in competitive contexts
-
-#### Emotional Management Example: Fighting Game - Tekken 8
-
-- Maintaining composure after dropping a crucial combo
-- Managing tournament nerves in high-pressure situations
-- Staying focused during long sets without tilting
-- Processing losses constructively rather than getting frustrated
-
 ### Emotional Management Suggested Rating Categories
 
 - Composure and Performance Under Pressure
@@ -509,26 +480,23 @@ Social Difficulty encompasses skills related to navigating multiplayer social st
 - Maintaining reputation and relationships
 - Organisational skills and delegation
 
-#### Social Management Example: Fighting Game - Tekken 8
-
-- Building relationships with training partners
-- Coordinating with tournament organisers
-- Managing team dynamics in team tournaments
-- Effectively communicating with and learning from your local scene
-
 ### Social Management: Suggested Rating Categories
 
 - Leadership
     Taking charge of social groups and progressing with purpose.
+        Leading an experience point party in Final Fantasy XI; running a raiding guild in World of Warcraft; Organising a scratch PvP group in Valorant.
 - Coordination and Teamwork
     Adjusting your actions in relation to others.
-        ex. Working within guild structure in an MMO;
+        ex. Adjusting your hero shooter play style to accommodate and compliment team mates in Overwatch; Levelling a support job in an MMO because they are more in demand for experience and end game; defending a lane conservatively when you trust your team is going to support you shortly; helping a friend with MSQ progression in an MMO.
 - Mentoring and Teaching
     Teaching and helping others learn how to do something or become a a better version of themselves.
+        ex. Teaching a player how to manage distances in League of Legends to avoid being farmed for XP; showing a guild member how to complete raid pre-requisites so they are prepared and easier to work with later.
 - Negotiation and Conflict
     Having discussions aimed at finding agreements and ways to progress forward when there are issues.
+        ex. Reaching a compromise with your party over who should cast lots for a desirable item, such as agreeing to give you a more valuable item later; agreeing to sell crafting materials under market value in exchange for help developing your own crafting skills in an MMO; agreeing to help a player build their minecraft building in exchange for help with yours.
 - Persuasion and Deal Making
     Having discussions where the aim is to persuade someone to accept or work with your beliefs or to close deals on terms beneficial to you.
+        ex. Making beneficial trade deals with asymmetric information in Civilisation V; convincing a team member to switch characters for a more balanced team composition in Deadlock; convincing a guild leader to ignore DKP because there are significant strategic reasons you should obtain a valuable item.
 - Politics and Hierarchies
     Understanding and navigating formal and informal power structures within gaming communities.
         ex. Managing relationships between different raid teams in an MMO guild; navigating tournament organizer relationships in competitive gaming; understanding and working within the hierarchy of a large gaming clan.
