@@ -225,7 +225,7 @@ Performance encompasses skills where immediate physical or neurological capabili
 
 - Input Precision
     Pressing the right buttons, in the right order, at the right time, consistently.
-        ex. Executing a perfect wavedash in Super Smash Bros Melee, fighting game combos, or stomping in directions on an arcade DDR machine.
+        ex. Executing a perfect wavedash in Super Smash Bros Melee; fighting game combos; or stomping in directions on an arcade DDR machine.
 - Motor Control
     Tracking target objects and manipulating them successfully. Typical where the controls are not complex but where control is.
         ex. Maintaining aim on and shooting a moving target in CS:GO; threading Mario through multiple platforming objects; or driving a car in Gran Turismo.
@@ -278,10 +278,7 @@ Execution involves active mental processing and tactical decision-making in real
         ex. Recognising opponent habits in fighting games; identifying attack strings/behaviour changes in a Souls game.
 - Attention Management:
     Attending to multiple high priority, time limited, important responsibilities in the moment.
-        ex. Multi-tasking attention across healing, shielding, buffs, enfeebles, damage, and communication as a healing class in FFXIV.
-- Threat Assessment:
-    Assessing the highest priority issues facing you in a real-time situation.
-        ex. Evaluating which of 5+ enemy types to focus on in a group encounter in Dark Souls; how the flow of enemies/objects will impact the tactical success of an attack in an RTS; or which line to defend when being overtaken on both sides in Forza Horizon 5.
+        ex. Multi-tasking attention across healing, shielding, buffs, enfeebles, damage, and communication as a healing class in FFXIV; evaluating which of 5+ enemy types to focus on in a group encounter in Dark Souls; or which line to defend when being overtaken on both sides in Forza Horizon 5.
 
 ## 3. Comprehension
 
@@ -381,7 +378,7 @@ Learning and Research involves systematic approaches to understanding game syste
         ex. Creating DPS parsing tools to aid FFXIV damage rotation optimisation projects.
 - Data Analysis
     Reviewing findings for key insights and other paths of research to meet key in-game goals.
-        ex. Analyzing DPS logs in FFXIV to identify optimal rotation timings; reviewing match replay data in League of Legends to identify winning patterns.
+        ex. Analysing DPS logs in FFXIV to identify optimal rotation timings; reviewing match replay data in League of Legends to identify winning patterns.
 - Documentation Methods
     Producing documentation and content so other players can benefit from learned knowledge. Could be for just your friends, your guild, or the community as a whole.
         ex. Creating and maintaining wiki pages for complex crafting systems in MMOs; documenting frame data and combo routes for fighting games; writing detailed guides for raid encounters.
@@ -458,7 +455,7 @@ Emotional Management encompasses the skills and capabilities related to understa
 
 ## 8. Social Management
 
-Social Difficulty encompasses skills related to navigating multiplayer social structures, managing relationships, and coordinating group efforts. It involves understanding social hierarchies, building and maintaining connections, and effectively collaborating with others to achieve shared goals. While social elements can interact with and potentially bypass other types of difficulty, core social difficulty focuses on fundamental interpersonal and organizational capabilities.
+Social Difficulty encompasses skills related to navigating multiplayer social structures, managing relationships, and coordinating group efforts. It involves understanding social hierarchies, building and maintaining connections, and effectively collaborating with others to achieve shared goals. While social elements can interact with and potentially bypass other types of difficulty, core social difficulty focuses on fundamental interpersonal and organisational capabilities.
 
 ### Social Management's Simple Rubric
 
@@ -493,13 +490,13 @@ Social Difficulty encompasses skills related to navigating multiplayer social st
         ex. Teaching a player how to manage distances in League of Legends to avoid being farmed for XP; showing a guild member how to complete raid pre-requisites so they are prepared and easier to work with later.
 - Negotiation and Conflict
     Having discussions aimed at finding agreements and ways to progress forward when there are issues.
-        ex. Reaching a compromise with your party over who should cast lots for a desirable item, such as agreeing to give you a more valuable item later; agreeing to sell crafting materials under market value in exchange for help developing your own crafting skills in an MMO; agreeing to help a player build their minecraft building in exchange for help with yours.
+        ex. Reaching a compromise with your party over who should cast lots for a desirable item, such as agreeing to give you a more valuable item later; agreeing to sell crafting materials under market value in exchange for help developing your own crafting skills in an MMO.
 - Persuasion and Deal Making
     Having discussions where the aim is to persuade someone to accept or work with your beliefs or to close deals on terms beneficial to you.
         ex. Making beneficial trade deals with asymmetric information in Civilisation V; convincing a team member to switch characters for a more balanced team composition in Deadlock; convincing a guild leader to ignore DKP because there are significant strategic reasons you should obtain a valuable item.
 - Politics and Hierarchies
     Understanding and navigating formal and informal power structures within gaming communities.
-        ex. Managing relationships between different raid teams in an MMO guild; navigating tournament organizer relationships in competitive gaming; understanding and working within the hierarchy of a large gaming clan.
+        ex. Managing relationships between different raid teams in an MMO guild; navigating tournament organiser relationships in competitive gaming; understanding and working within the hierarchy of a large gaming clan.
 
 ## Translating Game Challenges into Player Challenges
 
@@ -594,3 +591,6 @@ These categories exist along several key spectrums:
 - Success metrics might not be clear
 - What worked for others might not work for you
 - Meta changes could invalidate investments
+
+## Items to Consider
+- Creative thinking? How does one get from A to B in a logic puzzle when it's not systemic. 
