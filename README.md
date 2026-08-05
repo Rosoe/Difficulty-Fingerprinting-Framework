@@ -268,7 +268,7 @@ Execution involves active mental processing and tactical decision-making in real
 ### Execution: Suggested Rating Categories
 
 - Tactical Adaptation:
-    Changing behaviour after after identifying new information
+    Changing behaviour after identifying new information
         ex. Changing build order in StarCraft after scouting an enemy rush build.
 - Resource Management:
     Keeping track of available options, often limited or one time use, and meting out their use to best effect
